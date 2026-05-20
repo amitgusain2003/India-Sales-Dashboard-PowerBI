@@ -6,9 +6,6 @@ A complete **Sales Analytics Dashboard** built using **Microsoft Power BI Deskto
 
 ## 🖼️ Dashboard Preview
 
-> *Screenshot of the dashboard — add your screenshot here*
-> *(Replace this line with your actual dashboard image)*
-
 ![Dashboard Preview](dashboard_screenshot.png)
 
 ---
